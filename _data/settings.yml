@@ -32,7 +32,7 @@ google-analytics-ua: 'UA-112060364-3'
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
+  comments: true
   disqus_shortname: 'thathungrymind'
 
 #-------------------------------
