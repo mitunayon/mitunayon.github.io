@@ -25,5 +25,6 @@ Ideas
 - DontDestroyOnLoad elevators will position themselves at the designated elevator entry points.
   - the transform.position of these copied elevators will be matched with the transform.position of the elevator entry object.
   - *TODO* Need to fix the way rotation is brought over from the previous scene. It seems to be an issue with the mouselook rotation.
+    - Ok so, the teleporting elevator retains its rotation in the destination scene. We can use this to fix this problem. Just align the rotation of the departing elevator with the rotation of the destination elevator entry point. To make this easier, use only increments of 90 degrees.
 - *BUG* HeavyDoors stay open once triggered open. Removing its power does not return it back to its original state.
   - I have no idea why this could be.
