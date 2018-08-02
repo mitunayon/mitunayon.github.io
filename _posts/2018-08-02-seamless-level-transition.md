@@ -17,3 +17,5 @@ Ideas
 ## notes
 
 - level loads, the departing elevator loads into the new scene. player is unparented from the elevator.
+
+<iframe width="560" height="315" src="https://youtu.be/3xB1tAUf9gE" frameborder="0" allowfullscreen></iframe>
