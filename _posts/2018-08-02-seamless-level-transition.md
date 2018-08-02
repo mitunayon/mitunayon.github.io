@@ -14,8 +14,15 @@ Ideas
 - Fade in an out when loading a level.
 
 
-## notes
+##### notes
 
 - level loads, the departing elevator loads into the new scene. player is unparented from the elevator.
 
 <iframe width="560" height="315" src="https://youtu.be/3xB1tAUf9gE" frameborder="0" allowfullscreen></iframe>
+
+
+##### things achieved
+- Elevator will not destroy itself upon a new scene load.
+- DontDestroyOnLoad elevators will position themselves at the designated elevator entry points.
+  - the transform.position of these copied elevators will be matched with the transform.position of the elevator entry object.
+  - *TODO* Need to fix the way rotation is brought over from the previous scene. It seems to be an issue with the mouselook rotation.
