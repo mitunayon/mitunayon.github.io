@@ -4,7 +4,7 @@ title: "Self Determination Theory and Games"
 ---
 
 
-Humans are driven by motivation. Our society is built upon rules and regulations that impact our decisions. We work to get paid, we study to pass exams and we instagram our meals for a sense of greater belonging. Yet, do all these things bring us genuine happiness? Given the chance, I assume most of us would be much happier, playing and exploring, rather than working.
+Humans are driven by motivation. Our society is built upon rules and regulations that impact our decisions. We work to get paid, we study to pass exams and we instagram our meals for a sense of greater belonging. Yet, do all these things bring us genuine happiness? Given the chance, I assume most of us would prefer to be playing and exploring, rather than working.
 
 _I want to point out here that, work that you enjoy, is not work anymore. The student who studies because they love learning or the Doctor that works well beyond retirement does not do it because they are externally motivated. They behave this way because they are_ **intrinsically motivated.** _It is what they love._
 
@@ -19,6 +19,13 @@ What makes us motivated to do the things we do? Is there a reason that in any mo
 - Relatedness: The feeling of belonging to our environment.
 
 When these three needs are fulfilled, a person feels driven to perform more of that behaviour.
-I would like to tell you about how we can use these three needs to look at player motivation in games.
+I would like to tell you about how we can use these three needs to look at player motivation in games and how we applied it to our own game.
 
-I want finish by asking you all to think about why you are here tonight. What is the motivation behind you coming to this event. Are you here to support a friend, to network for new opportunities, or to - I would like to ask everyone to turn that motivation inwards, to look at everything with curiosity and wonder. to
+--
+--
+
+
+
+I want finish by asking you all to think about why you are here tonight. What is the motivation behind you coming to this event. Are you here to support a friend, to network for new opportunities, or to - I would like to ask everyone to turn that motivation inwards, to look at everything with curiosity and wonder. to break things, play laugh and learn.
+
+Thank you.
