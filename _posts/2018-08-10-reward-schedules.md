@@ -12,10 +12,22 @@ Skinner boxes can be found everywhere in games. These games offer rewards to pla
  - Distributing a reward for every X amount of actions.
  - Distributing a reward once for every X interval.
  - Continuous reinforcement. Where a behaviour is always rewarded.
- - 1. Ratio schedules.
-   - Fixed Ratio
-   - Variable Ratio
-     - a percentage chance to occur. Most commonly observed in lootboxes, RPG drops and
-     - Guaranteed every X amount of actions
-     - ![Variable Ratio Schedule](images/2018/08/ezgif.com-optimize.gif)
- - 2. Interval schedules.
+
+### Fixed Ratio
+Fixed reinforcement schedules offer rewards for every X amount of actions taken.
+
+A fixed interval schedule offers a reward after a fixed period of time. This type of reinforcement schedule leads to a pause in that behaviour until the time for reinforcement comes around again. This type of reinforcement can be seen in MMORPG mob spawns, where certain enemies are spawn on set timers. Players who are well prepared to strike the fastest are rewarded with item drops and progression. This type of conditioning can also be reinforced through delivery of reward after a certain amount of time.   
+
+### Variable Ratio
+A variable ratio schedule reinforces a behaviour after an unpredictable number of actions within a set response time. This reinforcement schedule is commonly seen in rare item drops, lootbox microtransactions and mobile games.
+
+In DoTA2, there is a character whose chance to critically hit is increased by 3% for every time their attack does not result in a critical hit. This dynamic prevents critical streaks and droughts.  
+![Variable Ratio Schedule](images/2018/08/ezgif.com-optimize.gif)
+
+The reinforcement schedules above fit neatly into the idea of extrinsic motivation where one performs an activity to obtain an outcome that is separable from the activity.
+
+Intrinsic motivation, is about engaging in an activity because it is inherently interesting and enjoyable. Activities which are intrinsically motivated are made upon ones own volition, bring about feelings of competency and provides a sense of belonging within one's environment.
+
+I would like to research the intrinsic value of these reinforcement schedules. This feedback loop seems to be commonplace. In my experience, the behaviour asked for by these games is often not what anyone would call fun, rather the feeing of gaining a reward which helps you to gain better rewards is what keeps players engaged.
+
+[https://www.researchgate.net/publication/303948263_Self-Determination_Theory_in_Digital_Games]
