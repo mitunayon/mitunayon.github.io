@@ -17,9 +17,9 @@ Abstract: Brief description of SDT. Establish Intrinsic and extrinsic motivation
 
 ### Section 1. RESEARCH 7-15 Pages
 My research including games and literature.
-literature that talks about motvation
+literature that talks about motivation
 
-Research on motivation.
+Research on motivation. *why do we play?*
 - Self Determination theory
   - Intrinsic and extrinsic motivation
   - The three psychological Needs
@@ -28,7 +28,16 @@ Research on motivation.
     - Relatedness
 - Behaviourism (an opposite take)
   - Operant conditioning, Skinner Boxes.
-- 
+
+*How can we encourage people to play*
+- Designing mechanics that are inherently fun.
+  - What are inherent mechanics?
+- How can we satisfy the three needs of SDT through game design?
+  - Autonomy (Agency and volition)
+  - Competence (Skill, Flow and Challenge)
+  - Relatedness (Social Design, Immersion, )
+
+
 
 ### Section 2 methodology for testing game. (1-2 pgs)
 Iterative Approach, playtesting and incorporating user feedback in iterative development cycles.
