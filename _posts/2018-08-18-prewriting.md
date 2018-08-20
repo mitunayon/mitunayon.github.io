@@ -19,10 +19,21 @@ Abstract: Brief description of SDT. Establish Intrinsic and extrinsic motivation
 My research including games and literature.
 literature that talks about motvation
 
+Research on motivation.
+- Self Determination theory
+  - Intrinsic and extrinsic motivation
+  - The three psychological Needs
+    - Autonomy
+    - Competence
+    - Relatedness
+- Behaviourism (an opposite take)
+  - Operant conditioning, Skinner Boxes.
+- 
+
 ### Section 2 methodology for testing game. (1-2 pgs)
 Iterative Approach, playtesting and incorporating user feedback in iterative development cycles.
 
-### Section 3 My work and my iterations of it. 
+### Section 3 My work and my iterations of it.
 I assume this is asking what did I contribute to the project?
 Explain the reasoning behind decisions. How did user testing support them?
 
