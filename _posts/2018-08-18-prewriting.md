@@ -16,10 +16,11 @@ Section 4. Next steps and future directions for the project. (1 - 5 pages pages)
 Abstract: Brief description of SDT. Establish Intrinsic and extrinsic motivation. Establish SDT Needs. How can games be viewed from an SDT lens. Specifically, how the three SDT needs be used to analyse game experiences. The use of rewards in games on player motivation, specifically how it relates to extrinsic motivation.
 
 ### Section 1. RESEARCH 7-15 Pages ~4k words
-My research including games and literature.
-literature that talks about motivation
 
 Research on motivation. *why do we do anything? (in a general context)*
+
+Humans are driven by motivation. Our society is built upon rules and regulations that impact our decisions. We work to get paid, we study to pass exams and we instagram our meals for a sense of greater belonging. Yet, do all these things bring us genuine happiness? Self Determination Theory is an approach to looking at human motivation that focuses on personal development and behavioural regulation. (Ryan & Deci 1985)
+
 - Self Determination theory
   - Intrinsic and extrinsic motivation
     -
