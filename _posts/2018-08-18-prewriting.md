@@ -28,19 +28,34 @@ Research on motivation. *why do we play?*
     - Relatedness
 - Behaviourism (an opposite take)
   - Operant conditioning, Skinner Boxes.
+    - Reinforcement Schedules.
+- The idea that we play for emotion. (Tynan - Designing Games)
+  - The change of human values
 
 *How can we encourage people to play*
-- Designing mechanics that are inherently fun.
-  - What are inherent mechanics?
 - How can we satisfy the three needs of SDT through game design?
   - Autonomy (Agency and volition)
+    - Providing Agency
+      - The illusion of player choice
+    -
   - Competence (Skill, Flow and Challenge)
-  - Relatedness (Social Design, Immersion, )
+    - Designing mechanics that are inherently fun and that encourage learning and growth.
+      - What are inherent mechanics?
+  - Relatedness (Social Design, Immersion)
+    - The change of human values _(Designing Games)_
+    - Immersion
+      - The player and the avatar.
+      - Interface
+        - The affects of Intuitive controls
 
+*Conclusion*
+My hypothesis. In order to achieve
 
-
-### Section 2 methodology for testing game. (1-2 pgs)
+### Section 2 methodology for testing my game. (1-2 pgs)
 Iterative Approach, playtesting and incorporating user feedback in iterative development cycles.
+
+what questions did i use to look for the SDT needs ?
+
 
 ### Section 3 My work and my iterations of it.
 I assume this is asking what did I contribute to the project?
