@@ -20,22 +20,25 @@ Abstract: Brief description of SDT. Establish Intrinsic and extrinsic motivation
 Research on motivation. *why do we do anything? (in a general context)*  
 
 **Research Introduction**
-As the video game market is becoming more full, developers are looking for new ways to retain players and gain new ones. Player Motivation in games is a popular topic in this regard. (yes haha) Research into this topic includes Bartle (2004) looks at player motivation in MMOs, concluding that there are 4 different player types of Socialiser, Achiever, Killer and Explorer. Yee (2005) designed a player motivation taxonomy that outlines ~~~. These scholars have researched motivation explicitly in regards to video games. However attempts to link traditional psychology to Game design have been scarce. In contrast there has been lots of research into motivation from outside of games, looking at behaviour conditioning in animals to humans (). This paper aims to bridge research on human motivation to game design.
+As the video game market is becoming increasingly populated, developers are looking for new ways to retain players and gain new ones. Player Motivation in games is a popular topic in this regard. (yes haha) Research into this topic includes Bartle (2004) looks at player motivation in MMOs, concluding that there are 4 different player types of Socialiser, Achiever, Killer and Explorer. Yee (2005) designed a player motivation taxonomy that outlines ~~~. These scholars have researched motivation explicitly in regards to video games. However attempts to link traditional psychology to Game design have been scarce. In contrast there has been lots of research into motivation from outside of games, looking at behaviour conditioning in animals to humans (). This paper aims to bridge research on human motivation to game design.
 
+### Establish SDT**
+**The three psychological needs**
 Self Determination Theory is an approach to looking at human motivation that focuses on development and behaviour in humans.(Ryan & Deci 2000) It has been applied to many varying fields ranging from sport to music. SDT posits that there are three main psychological needs. (Ryan & Deci) These needs are Autonomy, Competence, and Relatedness.
 
+**Types of motivation**
+SDT separates motivation into two different types. Intrinsic motivation, self motivated behaviour that is of ones own volition, and Extrinsic motivation, behaviour that is influenced by an individual's environment. Of the two types of motivation, intrinsic motivation is the more desired form of motivation.
+
+**Establish Existing Research that aims to link SDT to games**
 Studies have been committed researching the relationship between SDT and games, most specifically (Ryan, Rigby & Przybylski 2006) the paper The Motivational Pull of Video Games by Richard Ryan himself. The study examined individuals playing games in a laboratory environment and surveyed the individuals SDT needs, enjoyment, and future gameplay motivation. The results concluded that fulfilment of SDT theorized needs predicted enjoyment, changes in well-being and future gameplay motivation (Ryan, Rigby & Przybylski 2006). The paper further states that perceptions of Competence and Autonomy are linked to the intuitive nature of controls and sense of immersion.
 
 
-
-Besides that there have been multiple attempts at creating player profiles based on personality traits.
 
 
 
 
 
 - **Self Determination Theory**
-  - Humans are driven by motivation. Our society is built upon rules and regulations that shape our decisions. These motivations can be self motivated or externally motivated (Ryan & Deci) We work to get paid, we study to pass exams and *something something*. ~~Yet, do all these things bring us genuine happiness?~~ Self Determination Theory is an approach to looking at human motivation that focuses on personal development and behavioural regulation. (Ryan & Deci 1985) It has been used as a framework to look at human behaviour in many different fields ranging from Sport to Music.
   - **Intrinsic and Extrinsic Motivation**
     - SDT posits that motivation can be separated into different forms. Intrinsically motivated and extrinsically motivated behaviours (citation needed)
     -
