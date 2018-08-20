@@ -11,17 +11,18 @@ Section 3. Your work and your iterations of it. Why did you make the choices you
 Section 4. Next steps and future directions for the project. (1 - 5 pages pages)
 
 
-#### First draft
+#### First draft (10,000 - 12,000 words) 11k words / 25pgs.. around 440 words per page.
 
 Abstract: Brief description of SDT. Establish Intrinsic and extrinsic motivation. Establish SDT Needs. How can games be viewed from an SDT lens. Specifically, how the three SDT needs be used to analyse game experiences. The use of rewards in games on player motivation, specifically how it relates to extrinsic motivation.
 
-### Section 1. RESEARCH 7-15 Pages
+### Section 1. RESEARCH 7-15 Pages ~4k words
 My research including games and literature.
 literature that talks about motivation
 
-Research on motivation. *why do we play?*
+Research on motivation. *why do we do anything? (in a general context)*
 - Self Determination theory
   - Intrinsic and extrinsic motivation
+    -
   - The three psychological Needs
     - Autonomy
     - Competence
@@ -37,10 +38,17 @@ Research on motivation. *why do we play?*
   - Autonomy (Agency and volition)
     - Providing Agency
       - The illusion of player choice
-    -
-  - Competence (Skill, Flow and Challenge)
+
+  - **Competence** (Skill, Flow and Challenge)
     - Designing mechanics that are inherently fun and that encourage learning and growth.
       - What are inherent mechanics?
+    - Single Player games
+    - Multiplayer games
+    - Cooperative games
+    - The issue of luck
+    - The affects of artificial and inherent Skill
+    - Challenge and flow.
+      - How to design for learning and development.
   - Relatedness (Social Design, Immersion)
     - The change of human values _(Designing Games)_
     - Immersion
@@ -51,15 +59,13 @@ Research on motivation. *why do we play?*
 *Conclusion*
 My hypothesis. In order to achieve
 
-### Section 2 methodology for testing my game. (1-2 pgs)
+### Section 2 methodology for testing my game. (1-2 pgs) ~1k words
 Iterative Approach, playtesting and incorporating user feedback in iterative development cycles.
 
-what questions did i use to look for the SDT needs ?
-
-
-### Section 3 My work and my iterations of it.
+what questions did I use to look for the SDT needs ?
+### Section 3 My work and my iterations of it. (10-15 pgs) ~4k words
 I assume this is asking what did I contribute to the project?
 Explain the reasoning behind decisions. How did user testing support them?
 
-## Section 4 Future directions for the project.
+## Section 4 Future directions for the project. (1-5 pgs) ~1k words
 continued development
