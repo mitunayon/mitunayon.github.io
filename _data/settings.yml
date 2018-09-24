@@ -39,9 +39,9 @@ disqus:
 # About Section
 
 about: >
-  # Wichaya Karnchanapee
+  # Billy Karnchanapee
 
-  we make games-
+
 
 contact: >
   # Contact
@@ -64,8 +64,8 @@ projects:
 social:
 - {icon: 'twitter', link: 'https://twitter.com/foxcircles'}
 - {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'github', link: 'https://github.com/mitunayon'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/wkarn/'}
+- {icon: 'envelope', link: 'mailto:wkarnchanapee@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
